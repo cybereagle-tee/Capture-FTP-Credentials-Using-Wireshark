@@ -15,7 +15,8 @@ Understand why FTP is considered insecure
 
 Lab Environment
 --
-Component Details
+Component Details:
+
 Attacker Machine: Kali Linux (VirtualBox)
 
 Target Machine: Metasploitable2
