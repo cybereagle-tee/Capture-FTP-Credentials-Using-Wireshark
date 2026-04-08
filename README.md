@@ -135,9 +135,9 @@ Perform regular security assessments
 Screenshots
 --
 
-Include screenshots such as:
-
 Wireshark capture interface
+<img width="1547" height="577" alt="image" src="https://github.com/user-attachments/assets/591a2cba-aab7-400b-9b51-b5d3f3b3fe02" />
+
 FTP login attempt
 TCP stream showing captured credentials
 
