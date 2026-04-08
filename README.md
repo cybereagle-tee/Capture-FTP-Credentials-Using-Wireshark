@@ -25,7 +25,7 @@ Tools Used	Wireshark, Nmap, FTP
 
 Lab Setup
 --
-1. Network Configuration
+---1. Network Configuration
    
 Both Kali Linux and Metasploitable 2 were configured with:
 
@@ -35,7 +35,7 @@ This allows isolated communication between both machines.
 
 
 
-2. Start Target Machine
+---2. Start Target Machine
    
 Logged into Metasploitable 2 using default credentials
 Identified the target IP address using system network configuration tools
@@ -45,7 +45,7 @@ Example IP:
 
 
 
-3. Verify Connectivity
+---3. Verify Connectivity
    
 Confirmed communication between Kali Linux and the target machine using network testing
 Successful response indicated both systems were connected properly
@@ -54,14 +54,14 @@ Successful response indicated both systems were connected properly
 
 Step-by-Step Execution
 --
-Step 1: Scan for FTP Service
+---Step 1: Scan for FTP Service
 
 Performed a port scan on the target machine
 Verified that FTP service (Port 21) was open and accessible
 
 
 
-Step 2: Start Wireshark Capture
+---Step 2: Start Wireshark Capture
 
 Launched Wireshark on Kali Linux
 Selected the active network interface
@@ -69,7 +69,7 @@ Started packet capture
 
 
 
-Step 3: Generate FTP Traffic
+---Step 3: Generate FTP Traffic
 
 Initiated an FTP connection from Kali Linux to the target machine
 Logged in using default credentials
@@ -78,13 +78,13 @@ This action generated network traffic for analysis
 
 
 
-Step 4: Filter FTP Traffic
+---Step 4: Filter FTP Traffic
 
 Applied a display filter in Wireshark to isolate FTP traffic
 
 
 
-Step 5: Extract Credentials
+---Step 5: Extract Credentials
 
 Method 1: Packet Inspection
 Selected FTP packets from the capture
