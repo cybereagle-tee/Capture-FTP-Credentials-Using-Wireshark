@@ -139,7 +139,10 @@ Wireshark capture interface
 <img width="1547" height="577" alt="image" src="https://github.com/user-attachments/assets/591a2cba-aab7-400b-9b51-b5d3f3b3fe02" />
 
 FTP login attempt
+
+
 TCP stream showing captured credentials
+<img width="740" height="548" alt="image" src="https://github.com/user-attachments/assets/d3fac9fc-04a5-4d11-9f79-09fac57b7485" />
 
 ---
 
