@@ -15,11 +15,14 @@ Understand why FTP is considered insecure
 
 Lab Environment
 --
-Component	Details
-Attacker Machine	Kali Linux (VirtualBox)
-Target Machine	Metasploitable 2
-Network Type	Host-Only Adapter
-Tools Used	Wireshark, Nmap, FTP
+Component Details
+Attacker Machine: Kali Linux (VirtualBox)
+
+Target Machine: Metasploitable2
+
+Network Type: Host-Only Adapter
+
+Tools Used: Wireshark, Nmap, FTP
 
 ---
 
