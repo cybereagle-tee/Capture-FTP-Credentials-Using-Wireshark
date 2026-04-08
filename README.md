@@ -153,12 +153,10 @@ This project demonstrates:
 2. Understanding of insecure network protocols
 3. Hands-on penetration testing skills
 
-   ---
+---
 
    Author
    --
 Treasure James
 (The Cybereagle)
 
-Understanding of insecure network protocols
-Hands-on penetration testing skills
